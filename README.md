@@ -1,15 +1,15 @@
 ## Hi, I am Aditya Tyagi 🥷
 
-🧠 Computer Science Student <br/>
-💻 & Trying to create something amazing using Programming <br/>
+💻 I am Trying to create something amazing using Programming <br/>
 🎥 I make videos about web dev and design on [Instagram](https://www.instagram.com/adityatyagi.dev) <br/>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGgyNGxzdjg5MXJ3cGV2Nnh6bXVhbDF3MDJzbXBwMzNzMTduand3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/50fuVHMGUVszu/giphy.gif" width="400"/>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<hr style>
 
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
